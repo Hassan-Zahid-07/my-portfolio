@@ -1,16 +1,15 @@
 const profile = {
-  name: "Your Name",
+  name: "Hassan Zahid",
   title: "Web Developer",
   about:
-    "Write 2 to 3 sentences about yourself, what you do, and what you are looking for.",
+    "I am a web developer who builds clean, responsive websites with React. I am learning modern tools and looking for opportunities to grow and build real projects.",
   skills: ["HTML", "CSS", "JavaScript", "React", "Git"],
   projects: [
-    { name: "Project One", description: "What it does.", link: "https://example.com" },
-    { name: "Project Two", description: "What it does.", link: "https://example.com" },
+    { name: "Portfolio Website", description: "This site, built with React and deployed on Vercel.", link: "https://github.com/Hassan-Zahid-07/my-portfolio" },
   ],
-  email: "you@example.com",
-  github: "https://github.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername",
+  email: "HassanZahid7936@gmail.com",
+  github: "https://github.com/Hassan-Zahid-07",
+  linkedin: "https://linkedin.com/in/your-linkedin-username",
 };
 
 export default function App() {
